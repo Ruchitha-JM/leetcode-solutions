@@ -7,3 +7,4 @@
 | 03/10/2026 | Valid Palindrome | Arrays & Strings | Easy | ✅ Solved | 10 min |
 | 03/10/2026 | Valid Parentheses | Arrays & Strings | Easy | ✅ Solved | 10 min |
 | 03/10/2026 | Valid Anagram | Arrays & Strings | Easy | ✅ Solved | 10 min |
+| 03/10/2026 | Valid Perfect Square | Arrays & Strings | Easy | ✅ Solved | 10 min |
